@@ -1,0 +1,1 @@
+export{t as default}from"./galary-DQXma_9E.js";

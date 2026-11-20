@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-7vNEmt-1.js";import{t as n}from"./menu3-CvcUDTbo.js";var r=t(),i=e(function(){return(0,r.jsx)(n,{})});export{i as default};

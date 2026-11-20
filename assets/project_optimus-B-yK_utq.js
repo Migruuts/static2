@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-7vNEmt-1.js";import{t as n}from"./menu_projects-DNqd1Bi9.js";var r=t(),i=e(function(){return(0,r.jsxs)(`div`,{children:[(0,r.jsx)(n,{}),(0,r.jsx)(`div`,{children:`Optimus Glass`})]})});export{i as default};
